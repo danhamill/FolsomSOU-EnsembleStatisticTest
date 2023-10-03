@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar/sys" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar/sys" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar/sys" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar/sys" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar/sys/geotools" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/common/jar/sys/geotools" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/shared/jar/ext" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../../../Local_Software/CWMS-v3.2.3.1/shared/jar/ext" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/jars" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/jars" recursive="false" />
+      </library>
+    </orderEntry>
+  </component>
+</module>
