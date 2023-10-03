@@ -228,7 +228,7 @@ def main(baseRoot):
         simMode, simRun, rmiWksp, user = configureResSim(watershedWkspFile, simName, altName)
 
         # Outer loop that defines the nth ranked volume being tested
-        for rankedMember in range(0,2):
+        for rankedMember in range(0,21):
 
             loggerN = myLogger("Ranked Volume: %s" %(rankedMember), loggingFile)
             loggerN.info("Processing....")
